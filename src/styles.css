@@ -1,0 +1,46 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+crossorigin="anonymous" referrerpolicy="no-referrer" />Favicon.io - The Ultimate Favicon Generator (Free) Intikhab Bhat 13:32 https: //favicon.io/
+Viswanatha Swamy 13:38 <link rel="icon" href="favicon.ico" type="image/x-icon">Mohammad Haidar 13:45 https: //mohammad-haidar.github.io/starter/src/
+Maryam Mirza 13:46 https: //mygclass2020.github.io/starter/src/
+Sabera Tehzeeb 13:47 https: //sabera-tehzeeb.github.io/starter/src/
+Mohammad Haidar 13:47+Umaid Ali 13:47 https: //umaidali236.github.io/satrter/src/
+Mohammad Haidar 13:48+Intikhab Bhat 13:52 https: //intikhab-h-bhat.github.io/starter/src/
+Mohammad Haidar 13:53+Rahil Tariq 13:56 https: //rahiltariq07.github.io/starter/src/
+Irtiqa Manzoor 13:56 https: //irtiqamanzoor.github.io/sample1/
+Mohammad Haidar 13:56+Viswanatha Swamy 13:56 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+crossorigin="anonymous" referrerpolicy="no-referrer" /><script src="script.js"></script>Viswanatha Swamy 13:58 <div><h1>Project Starter <i class="fa-brands fa-apple"></i></h1></div>Viswanatha Swamy 14:01 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Roboto', 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+
+    color: #1 h1 {
+        font-size: 3rem;
+        margin-bottom: 1rem;
+        color: #1C1678;
+    }
+
+    i {
+        font-size: 5rem;
+        margin-bottom: 1rem;
+        color: blueviolet;
+    }
